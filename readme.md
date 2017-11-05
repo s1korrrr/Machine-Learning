@@ -6,4 +6,4 @@ We can too! Remember before when we defined the type of data that linear regress
 "continuous" data? This is not so much due to what people just so happen to use linear regression for,
 it is due to the math that makes it up. Simple linear regression is used to find the best fit line of a dataset.
 If the data isn't continuous, there really isn't going to be a best fit line.
-https://pythonprogramming.net/static/images/machine-learning/positive-correlation.png"# Machine-Learning" 
+![alt text]https://pythonprogramming.net/static/images/machine-learning/positive-correlation.png"# Machine-Learning"
